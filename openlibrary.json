@@ -1,0 +1,97 @@
+[
+  {
+    "title": "A Experiência e o Crescimento em Vida",
+    "subtitle": "Volume 1",
+    "authors": [
+      { "name": "Witness Lee" }
+    ],
+    "publishers": ["Publicações Árvore da Vida"],
+    "publish_date": "2019",
+    "languages": [{ "key": "/languages/por" }],
+    "number_of_pages": 220,
+    "isbn_13": ["9781536016963"],
+    "notes": "Mensagem ministrada na Conferência Internacional em São Paulo.",
+    "cover": {
+      "source_records": [
+        "https://i.postimg.cc/mkKdhjCJ/A-Salvacao-Plena.jpg"
+      ]
+    },
+    "type": { "key": "/type/edition" }
+  },
+  {
+    "title": "A Salvação Plena de Deus",
+    "subtitle": "Volume 1",
+    "authors": [
+      { "name": "Watchman Nee" }
+    ],
+    "publishers": ["Editora dos Santos"],
+    "publish_date": "2020",
+    "languages": [{ "key": "/languages/por" }],
+    "number_of_pages": 180,
+    "isbn_13": ["9786588489015"],
+    "notes": "A salvação de Deus vista de forma plena e progressiva.",
+    "cover": {
+      "source_records": [
+        "https://i.postimg.cc/mkKdhjCJ/A-Salvacao-Plena.jpg"
+      ]
+    },
+    "type": { "key": "/type/edition" }
+  },
+  {
+    "title": "A Economia Divina",
+    "subtitle": "",
+    "authors": [
+      { "name": "Witness Lee" }
+    ],
+    "publishers": ["Publicações Árvore da Vida"],
+    "publish_date": "2018",
+    "languages": [{ "key": "/languages/por" }],
+    "number_of_pages": 200,
+    "isbn_13": ["9788579531499"],
+    "notes": "Uma exposição sobre o plano eterno de Deus.",
+    "cover": {
+      "source_records": [
+        "https://i.postimg.cc/mkKdhjCJ/A-Salvacao-Plena.jpg"
+      ]
+    },
+    "type": { "key": "/type/edition" }
+  },
+  {
+    "title": "A Visão da Igreja",
+    "subtitle": "",
+    "authors": [
+      { "name": "Watchman Nee" }
+    ],
+    "publishers": ["Editora dos Santos"],
+    "publish_date": "2017",
+    "languages": [{ "key": "/languages/por" }],
+    "number_of_pages": 160,
+    "isbn_13": ["9780736374453"],
+    "notes": "Estudo sobre a revelação da igreja nas Escrituras.",
+    "cover": {
+      "source_records": [
+        "https://i.postimg.cc/mkKdhjCJ/A-Salvacao-Plena.jpg"
+      ]
+    },
+    "type": { "key": "/type/edition" }
+  },
+  {
+    "title": "O Chamado Celestial",
+    "subtitle": "Volume 2",
+    "authors": [
+      { "name": "Witness Lee" }
+    ],
+    "publishers": ["Publicações Árvore da Vida"],
+    "publish_date": "2021",
+    "languages": [{ "key": "/languages/por" }],
+    "number_of_pages": 240,
+    "isbn_13": ["9788579532021"],
+    "notes": "Chamado de Deus para uma vida santa.",
+    "cover": {
+      "source_records": [
+        "https://i.postimg.cc/mkKdhjCJ/A-Salvacao-Plena.jpg"
+      ]
+    },
+    "type": { "key": "/type/edition" }
+  }
+]
